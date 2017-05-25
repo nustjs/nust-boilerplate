@@ -1,0 +1,61 @@
+iso: en
+links:
+  api: API
+  blog: Blog
+  chat: Chat
+  documentation: Documentation
+  download: Download
+  examples: Examples
+  ecosystem: Ecosystem
+  faq: FAQ
+  get_started: get started
+  github: Github
+  guide: Guide
+  homepage: Home page
+  live_demo: Live Demo
+  live_edit: Live Edit
+  twitter: Twitter
+  vuejs: Vue.js
+  vue_jobs: Vue Jobs
+  cn: Chinese Version
+  en: English Version
+text:
+  an_error_occured: An error occured
+  api_page_not_found: API page not found
+  example_file: Example Files
+  please_wait: Please wait...
+  please_define_title: Please define a title in the front matter
+  please_define_description: Please define a description in the front matter
+  search: Search
+  version: Version
+  post_copyright1: "Thanks for your reading, the post was provided by <a href='@{editorUrl}'>@{editorName}</a> originally. Any reproduction should keep the original info: Aotu.io (<a href='@{postUrl}'>https://aotu.io@{postUrl}</a>）"
+  post_copyright0: "Thanks for your reading, the post was provided by <a href='//aotu.io'>Aotu.io</a> originally. Any reproduction should keep the original info: Aotu.io (<a href='@{postUrl}'>https://aotu.io@{postUrl}</a>）"
+  post_lastupdated: "Last updated at:"
+  toc: Table Of Content
+  weeklyrss: Weekly RSS
+  comment: Comments
+  postedAt: at
+  postedBy: Posted by
+  postedIn: in
+  postTags: Post Tags
+  cate: category
+homepage:
+  title: Universal Vue.js Applications
+  meta:
+    title: Nuxt.js - Universal Vue.js Applications
+    description: Nuxt.js is a minimal framework for creating Vue.js applications with server side rendering, code-splitting, hot-reloading, static generation and more!
+footer:
+  authors: Made by Chopin Brothers
+guide:
+  release_notes: Release Notes
+  contribute: Caught a mistake or want to contribute to the documentation?
+  edit_on_github: Edit this page on Github!
+examples:
+  source_code: Source Code
+titles:
+  favlink: Favorite Links
+  liteo2: Aotu News APP
+  aotuwx: Offcial Wechat
+  cases: Works
+errCodes:
+  E404: This page could not be found. 

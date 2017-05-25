@@ -1,0 +1,28 @@
+{
+  "name": "nust-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for demonstrating how to build a static site with Nust.js",
+  "main": "index.js",
+  "scripts": {
+    "update": "git submodule update --init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nustjs/nust-boilerplate.git"
+  },
+  "keywords": [
+    "nust",
+    "nustjs",
+    "nust.js",
+    "nuxt",
+    "nuxtjs",
+    "nuxt.js"
+  ],
+  "author": "mamboer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nustjs/nust-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nustjs/nust-boilerplate#readme"
+}

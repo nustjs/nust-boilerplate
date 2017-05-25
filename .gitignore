@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+*.lock
+
+# Nust and Nuxt build
+.nust
+.nuxt
+
+.DS_Store

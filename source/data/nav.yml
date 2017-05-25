@@ -1,0 +1,19 @@
+items:
+  - name: 首页
+    path: /
+  - name: 资讯
+    path: https://news.aotu.io
+    target: _blank
+  - name: H5
+    path: https://cases.aotu.io
+  - name: 关于
+    path: /about
+more:
+  name: 更多
+  items:
+    - name: Github
+      path: https://github.com/o2team
+      target: _blank
+    - name: ELF
+      path: https://elf.aotu.io
+      target: _blank
