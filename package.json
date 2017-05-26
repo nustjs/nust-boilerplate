@@ -4,8 +4,10 @@
   "description": "A boilerplate for demonstrating how to build a static site with Nust.js",
   "main": "index.js",
   "scripts": {
-    "update": "git submodule update --init",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "git submodule update --init && git submodule foreach git pull origin master",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js",
+    "debug": "node --inspect --debug-brk index.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/nustjs/nust-boilerplate/issues"
   },
-  "homepage": "https://github.com/nustjs/nust-boilerplate#readme"
+  "homepage": "https://github.com/nustjs/nust-boilerplate#readme",
+  "dependencies": {
+    "nust": "latest"
+  }
 }

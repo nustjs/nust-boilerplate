@@ -1,4 +1,3 @@
-const Nust = require('../')
-
-let obj = Nust.create()
+const Nust = require('nust')
+let obj = Nust.create(__dirname)
 obj.start()
