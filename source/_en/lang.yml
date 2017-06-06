@@ -39,6 +39,7 @@ text:
   postedIn: in
   postTags: Post Tags
   cate: category
+  no_more_page: No more data.
 homepage:
   title: Universal Vue.js Applications
   meta:

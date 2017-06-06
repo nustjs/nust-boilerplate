@@ -40,6 +40,7 @@ text:
   postedIn: 发表于
   postTags: 文章标签
   cate: 分类
+  no_more_page: 已是最后一页
 homepage:
   title: Vue.js 通用应用框架
   meta:
