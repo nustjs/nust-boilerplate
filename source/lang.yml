@@ -41,6 +41,8 @@ text:
   postTags: 文章标签
   cate: 分类
   no_more_page: 已是最后一页
+  pager_prev: 前一页
+  pager_next: 后一页
 homepage:
   title: Vue.js 通用应用框架
   meta:

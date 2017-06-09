@@ -40,6 +40,8 @@ text:
   postTags: Post Tags
   cate: category
   no_more_page: No more data.
+  pager_prev: Prev
+  pager_next: Next
 homepage:
   title: Universal Vue.js Applications
   meta:
