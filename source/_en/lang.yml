@@ -42,13 +42,16 @@ text:
   no_more_page: No more data.
   pager_prev: Prev
   pager_next: Next
+  next_batch: Next Page
+  aotulabs: AOTULabs
+  jdc: JD Design Center
 homepage:
-  title: Universal Vue.js Applications
+  title: Nust.js - A modern static site engine
   meta:
-    title: Nuxt.js - Universal Vue.js Applications
-    description: Nuxt.js is a minimal framework for creating Vue.js applications with server side rendering, code-splitting, hot-reloading, static generation and more!
+    title: Nust.js - A modern static site engine
+    description: A modern static site generator built on top of Nuxt.js and Vue.js!
 footer:
-  authors: Made by Chopin Brothers
+  authors: Made by Levin Wong
 guide:
   release_notes: Release Notes
   contribute: Caught a mistake or want to contribute to the documentation?

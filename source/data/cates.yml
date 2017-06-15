@@ -2,39 +2,40 @@
   slug: all
   icon: icon-cate
   url: /
+  exact: true
 - title: Web开发
   slug: webdev
   icon: icon-web
-  url: /cates/webdev/index.html
+  url: /cates/webdev/
 - title: 移动开发
   icon: icon-appkaifa
   slug: appdev
-  url: /cates/appdev/index.html
+  url: /cates/appdev/
 - title: NodeJS
   slug: nodejs
   icon: icon-nodejs
-  url: /cates/nodejs/index.html
+  url: /cates/nodejs/
 - title: 性能优化
   icon: icon-xingneng
   slug: perf
-  url: /cates/perf/index.html
+  url: /cates/perf/
 - title: 项目总结
   icon: icon-review
   slug: projreview
-  url: /cates/projreview/index.html
+  url: /cates/projreview/
 - title: 体验报告
   icon: icon-baogao
   slug: reports
-  url: /cates/reports/index.html
+  url: /cates/reports/
 - title: 资源合集
   slug: resource
   icon: icon-resource
-  url: /cates/resource/index.html
+  url: /cates/resource/
 - title: 生活玩乐
   slug: fun
   icon: icon-icfunfootprint
-  url: /cates/fun/index.html
+  url: /cates/fun/
 - title: 其他
   slug: other
   icon: icon-shouyetubiao225
-  url: /cates/other/index.html
+  url: /cates/other/

@@ -43,11 +43,14 @@ text:
   no_more_page: 已是最后一页
   pager_prev: 前一页
   pager_next: 后一页
+  next_batch: 换一批
+  aotulabs: 凹凸实验室
+  jdc: 京东用户体验设计部
 homepage:
-  title: Vue.js 通用应用框架
+  title: Nust.js - Vue静态站点引擎
   meta:
-    title: Nuxt.js - Vue.js 通用应用框架
-    description: Nuxt.js 是一个基于 Vue.js 的轻量级应用框架，可用来创建服务端渲染 (SSR) 应用，也可充当静态站点引擎生成静态站点应用，具有优雅的代码结构分层和热加载等特性。
+    title: Nust.js - Vue静态站点引擎
+    description: Nust.js 是一个基于 Nuxt.js 和 Vue.js 的轻量级静态站点应用框架，可充当静态站点引擎生成静态站点应用，具有优雅的代码结构分层和热加载等特性。
 footer:
   authors: Chopin Brothers 出品
 guide:
