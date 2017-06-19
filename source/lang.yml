@@ -46,7 +46,8 @@ text:
   next_batch: 换一批
   aotulabs: 凹凸实验室
   jdc: 京东用户体验设计部
-  tag_post_tip: 标签<span class='label'>@{title}</span>共有<span class='label'>@{cnt}</span>篇文章
+  tag_post_tip: 标签<span class='label label-sp3'>@{title}</span>共有<span class='label label-sp3 label-info'>@{cnt}</span>篇文章
+  tag_show_all: 显示所有标签
 homepage:
   title: Nust.js - Vue静态站点引擎
   meta:

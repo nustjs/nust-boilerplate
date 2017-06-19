@@ -45,7 +45,8 @@ text:
   next_batch: Next Page
   aotulabs: AOTULabs
   jdc: JD Design Center
-  tag_post_tip: <span class='label'>@{cnt}</span>posts found with tag<span class='label'>@{title}</span>
+  tag_post_tip: <span class='label label-sp3'>@{cnt}</span>posts found with tag<span class='label label-sp3 label-info'>@{title}</span>
+  tag_show_all: All Tags
 homepage:
   title: Nust.js - A modern static site engine
   meta:
