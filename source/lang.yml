@@ -1,5 +1,6 @@
-iso: cn
+iso: zh-CN
 name: 中文
+flag: cn
 links:
   api: API
   blog: 博客
@@ -18,7 +19,7 @@ links:
   twitter: Twitter
   vuejs: Vue.js
   vue_jobs: 工作机会
-  cn: 中文版
+  zh-CN: 中文版
   en: 英文版
 text:
   an_error_occured: 文档API服务异常
@@ -40,6 +41,7 @@ text:
   postedIn: 发表于
   postTags: 文章标签
   cate: 分类
+  cate_no_posts: 当前分类暂无文章。
   no_more_page: 已是最后一页
   pager_prev: 前一页
   pager_next: 后一页
@@ -47,7 +49,8 @@ text:
   aotulabs: 凹凸实验室
   jdc: 京东用户体验设计部
   tag_post_tip: 标签<span class='label label-sp3'>@{title}</span>共有<span class='label label-sp3 label-info'>@{cnt}</span>篇文章
-  tag_show_all: 显示所有标签
+  tag_count_tip: 共有<span class='label label-sp3 label-info'>@{total}</span>个标签
+  tag_all: 所有标签
 homepage:
   title: Nust.js - Vue静态站点引擎
   meta:

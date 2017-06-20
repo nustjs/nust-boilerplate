@@ -17,7 +17,7 @@ links:
   twitter: Twitter
   vuejs: Vue.js
   vue_jobs: Vue Jobs
-  cn: Chinese Version
+  zh-CN: Chinese Version
   en: English Version
 text:
   an_error_occured: An error occured
@@ -39,6 +39,7 @@ text:
   postedIn: in
   postTags: Post Tags
   cate: category
+  cate_no_posts: No Posts found in this category.
   no_more_page: No more data.
   pager_prev: Prev
   pager_next: Next
@@ -46,7 +47,8 @@ text:
   aotulabs: AOTULabs
   jdc: JD Design Center
   tag_post_tip: <span class='label label-sp3'>@{cnt}</span>posts found with tag<span class='label label-sp3 label-info'>@{title}</span>
-  tag_show_all: All Tags
+  tag_count_tip: <span class='label label-sp3 label-info'>@{total}</span>Tags
+  tag_all: All Tags
 homepage:
   title: Nust.js - A modern static site engine
   meta:
