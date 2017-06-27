@@ -2,7 +2,7 @@
 title: "API: asyncData 方法"
 description: Nuxt.js 扩展增强了 vue.js 原有的data方法，使得我们可以在设置组件的数据之前能异步获取或处理数据。
 affix:
-  group: 页面
+  gname: 页面
   name: asyncData
 ---
 

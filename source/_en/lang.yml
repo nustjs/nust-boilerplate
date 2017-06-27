@@ -37,7 +37,7 @@ text:
   postedAt: at
   postedBy: Posted by
   postedIn: in
-  postTags: Post Tags
+  postTags: Document Tags
   cate: category
   cate_no_posts: No Posts found in this category.
   no_more_page: No more data.

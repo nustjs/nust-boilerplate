@@ -33,13 +33,13 @@ text:
   post_copy_right1: 感谢您的阅读，本文由 <a href='@{editorUrl}'>@{editorName}</a> 原创提供。如若转载，请注明出处：凹凸实验室（<a href='@{postUrl}'>https://aotu.io@{postUrl}</a>）
   post_copy_right0: 感谢您的阅读，本文由 <a href='//aotu.io'>凹凸实验室</a> 版权所有。如若转载，请注明出处：凹凸实验室（<a href='@{postUrl}'>https://aotu.io@{postUrl}</a>）
   post_lastupdated: 上次更新时间：
-  toc: 内容大纲
+  toc: 文档大纲
   weeklyrss: 每周精选文章
   comment: 用户评论
   postedAt: 在
   postedBy: 由
   postedIn: 发表于
-  postTags: 文章标签
+  postTags: 文档标签
   cate: 分类
   cate_no_posts: 当前分类暂无文章。
   no_more_page: 已是最后一页

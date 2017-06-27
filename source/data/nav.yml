@@ -7,7 +7,7 @@ items:
   - name: H5
     path: https://cases.aotu.io
   - name: 关于
-    path: /about
+    path: /docs/about
 more:
   name: 更多
   items:
@@ -16,4 +16,7 @@ more:
       target: _blank
     - name: ELF
       path: https://elf.aotu.io
+      target: _blank
+    - name: Nuxt
+      path: https://nuxtjs.org
       target: _blank

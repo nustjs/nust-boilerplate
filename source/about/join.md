@@ -4,8 +4,8 @@ desc: "2016 年 10 月 25 日, zeit.co 背后的团队对外发布了 Next.js，
 idle: false
 outline:
   gname: 凹凸实验室
-  name: 关 于
-  order: 1
+  name: 加入我们
+  order: 2
 ---
 
 test
